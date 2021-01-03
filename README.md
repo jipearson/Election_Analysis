@@ -43,4 +43,4 @@ The analysis of the election shows that:
 
 ## Audit Summary 
 With little to no modifications the script used to audit this congressional election can be used for any election results going forward. The script will produce sound results regardless of the number of candidates, the number of records, or the number of counties. 
-- If there are additional fields or if the fields are in a different order we can simply change the logic to read the data from the corresponding column. (field_we_want = row[column_# - 1)
+- If there are additional fields or if the fields are in a different order we can simply change the logic to read the data from the corresponding column. (field_we_want = row[column# - 1])
